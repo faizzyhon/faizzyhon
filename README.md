@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate Full Stack & AI Engineer from Pakistan 🇵🇰</h3>
 
-- 🔭 I’m currently working on [Next Securefolio – Personal Portfolio with JWT & Admin Auth](https://github.com/faizzyhon/next-securefolio)
-
-- 🌱 I’m currently learning **LangChain, RAG pipelines, Open Source LLMs, Supabase, Firebase Auth, and advanced Next.js 14 features**
-
-- 👯 I’m looking to collaborate on [AI ChatBot for Linux/Termux Platforms](https://github.com/faizzyhon/AI-ChatBot-Termux)
-
-- 🤝 I’m looking for help with [Grok-3 Inspired Custom Chatbot with Open Source LLMs](https://github.com/faizzyhon/Grok-3-Custom-Chatbot-)
-
-- 👨‍💻 All of my projects are available at [faizzyhon.vercel.app](faizzyhon.vercel.app)
 
 - 💬 Ask me about **React, Next.js, Firebase, Tailwind, Flask, GPT/LLMs, LangChain, AI pipelines, Stripe-like UI/UX, and Web Security**
 
