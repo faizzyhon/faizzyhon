@@ -16,6 +16,9 @@
   - `LLMs`, `LangChain`, `Flask`, `Node`, `Stripe-like UI/UX`
   - `Machine Learning`, `Security`, and `Deployment`
 
+[![Donate $1](https://img.shields.io/badge/Donate-%241%2Fmonth-blue?style=for-the-badge&logo=paypal)](https://faizzyhon.pocketsflow.com/checkout?subscriptionId=67fcd87c61a4fff7863721e3)
+
+
 ---
 
 ### 📧 Contact Me
