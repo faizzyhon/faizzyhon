@@ -64,26 +64,6 @@
 
 ---
 
-### 🧰 Projects & Repos Spotlight
-
-Here are a few highlights of my public repositories:
-
-- 🔐 [Next Securefolio](https://github.com/faizzyhon/next-securefolio) – Personal portfolio with JWT & admin authentication.
-- 🤖 [Grok-3 Custom Chatbot](https://github.com/faizzyhon/Grok-3-Custom-Chatbot-) – Custom AI chatbot inspired by Grok.
-- 🔎 [WebHawk](https://github.com/faizzyhon/WebHawk) – Web vulnerability scanner for beginners.
-- 💳 [BinLookupfree.com](https://github.com/faizzyhon/bin-lookup-free) – Free BIN lookup API & frontend.
-- 🧠 [Lemon Leaf Disease Classifier](https://github.com/faizzyhon) – Image classifier for lemon leaf disease using TensorFlow.
-
----
-
-### 📸 Fun Stuff & Dev Life
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Debugging"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding"/>
-</p>
-
----
 
 ### ⚡ Fun Fact
 > “When I’m not building secure full-stack apps or AI models, I’m probably planning my next trek — starting with the Camino de Santiago, June 2025!”
