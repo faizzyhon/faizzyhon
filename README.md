@@ -2,7 +2,13 @@
 <h3 align="center">🚀 Full Stack & AI Engineer | React + Next.js Expert | CEH Certified | Building Smart, Secure Systems</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizzyhon&show_icons=true&theme=tokyonight" alt="faizzyhon stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizzyhon&theme=tokyonight" alt="faizzyhon streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzyhon&layout=compact&theme=tokyonight" alt="faizzyhon languages"/>
 </p>
 
 ---
@@ -52,15 +58,7 @@
 
 ### 🧠 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizzyhon&show_icons=true&theme=tokyonight" alt="faizzyhon stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizzyhon&theme=tokyonight" alt="faizzyhon streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzyhon&layout=compact&theme=tokyonight" alt="faizzyhon languages"/>
-</p>
+
 
 ---
 
