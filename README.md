@@ -55,11 +55,6 @@
 
 ---
 
-### 🧠 GitHub Stats & Contributions
-
-
-
----
 
 
 ### ⚡ Fun Fact
