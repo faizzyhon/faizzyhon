@@ -3,9 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-<a href="https://github.com/sponsors/faizzyhon">
-  <img src="https://github.com/sponsors/faizzyhon/card" alt="Sponsor faizzyhon" width="600" height="225" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Sponsor-Faizzyhon-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/faizzyhon)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
