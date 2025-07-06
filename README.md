@@ -3,7 +3,9 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-<iframe src="https://github.com/sponsors/cometolearnofficial/card" title="Sponsor cometolearnofficial" height="225" width="600" style="border: 0;"></iframe>
+<a href="https://github.com/sponsors/faizzyhon">
+  <img src="https://github.com/sponsors/faizzyhon/card" alt="Sponsor faizzyhon" width="600" height="225" />
+</a>
 
 -------------------------------------------------------------------------------------------------------------------------------
 
