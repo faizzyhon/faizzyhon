@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">🚀 Full Stack & AI Engineer | React + Next.js Expert | CEH Certified | Building Smart, Secure Systems</h3>
--------------------------------------------------------------------------------------------------------------------------------
 
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-Faizzyhon-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/faizzyhon)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
