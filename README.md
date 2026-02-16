@@ -13,17 +13,11 @@
   - `LLMs`, `LangChain`, `Flask`, `Node`, `Stripe-like UI/UX`
   - `Machine Learning`, `Security`, and `Deployment`
 
-[![Donate $1](https://img.shields.io/badge/Donate-%241%2Fmonth-blue?style=for-the-badge&logo=paypal)](https://faizzyhon.online/buy.html)
 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizzyhon&show_icons=true&theme=tokyonight" alt="faizzyhon stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzyhon&layout=compact&theme=tokyonight" alt="faizzyhon languages"/>
-</p>
+
 
 ---
 
