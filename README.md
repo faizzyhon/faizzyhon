@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/faizzyhon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=60&lines=whoami+%3D%3D+%22Muhammad+Faizan%22;%24+sudo+hack+--ethically;PHP+Web+Pentester+%7C+Bug+Bounty+Hunter;EC-Council+Certified+Security+Researcher;OWASP+Top+10+%7C+CVE+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=60&lines=whoami+%3D%3D+%22Muhammad+Faizan%22;%24+sudo+hack+--ethically;PHP+Web+Pentester+%7C+Bug+Bounty+Hunter;EC-Council+Certified+Security+Researcher;OWASP+Top+10+%7C+CVE+Researcher;Creator+of+Cyberburg+%F0%9F%94%A5+%7C+PHANTOM+BLADE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,8 +44,11 @@ class MuhammadFaizan:
         ]
 
     @property
-    def current_project(self):
-        return "🔥 BugScanner — PHP Web Security Scanner"
+    def current_projects(self):
+        return [
+            "🔥 BugScanner   — PHP Web Security Scanner",
+            "⚡ Cyberburg     — Advanced Web Pentest Suite (v2.0 PHANTOM BLADE)",
+        ]
 
     def motto(self):
         return "⚡ Think like an attacker. Defend like a guardian."
@@ -55,15 +58,25 @@ class MuhammadFaizan:
 
 ---
 
-## 🔥 Featured Project — BugScanner
+## 🔥 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizzyhon&repo=BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/faizzyhon/cyberburg">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=faizzyhon&repo=cyberburg&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3b3b&title_color=ff3b3b&text_color=ffffff&icon_color=ff3b3b" />
+</a>
 
 </div>
+
+<br/>
+
+---
+
+### 🛡️ BugScanner — PHP Web Security Scanner
 
 <table>
 <tr>
@@ -109,6 +122,66 @@ $ python main.py scan --url https://target.com --modules all --auth --report pdf
 | `php` | LFI/RFI / Webshell / SSTI | A05: Misconfig |
 | `idor` | Horizontal / Vertical Priv Esc | A01: Broken Access |
 | `ssrf` | Internal Network Probing | A10: SSRF |
+
+</div>
+
+<br/>
+
+---
+
+### ⚡ Cyberburg — Advanced Web Pentest Suite `v2.0.0 — PHANTOM BLADE`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 What is Cyberburg?
+
+**Cyberburg** is a full-stack **Linux Web Penetration Testing Framework** that orchestrates **30+ professional security tools** under a single terminal interface. It runs tools in sequence, parses their output automatically, correlates findings across modules, and generates **professional dark-themed HTML security reports** — all in one command.
+
+**Built for professional pentesters, bug bounty hunters, and red teamers.**
+
+</td>
+<td width="50%">
+
+### ⚡ Key Capabilities
+
+- 🔍 **Recon Engine** — WHOIS, DNS, subdomain enum, email harvest, OSINT
+- 🔌 **Port Scanner** — Nmap (quick/full/stealth/UDP/vuln scripts)
+- 🕸️ **Web Scan** — Nikto, WhatWeb, WAF detect, header audit, CMS scan
+- 💉 **SQLi Testing** — SQLMap (all techniques) + manual error probing
+- 🎭 **XSS Testing** — Dalfox + manual payloads + DOM XSS analysis
+- 📂 **Dir Brute** — Gobuster/FFuf/Dirb + 30 critical path checks
+- 🔐 **SSL/TLS** — SSLScan, Heartbleed, POODLE, cipher analysis
+- 🚀 **Nuclei** — 7000+ CVE & misconfiguration templates
+- 📊 **Reports** — HTML (dark theme + charts) + JSON + TXT
+
+</td>
+</tr>
+</table>
+
+```bash
+# Install & Launch
+$ git clone https://github.com/faizzyhon/cyberburg
+$ sudo bash install.sh
+$ python3 cyberburg.py                          # Interactive menu
+$ python3 cyberburg.py -t https://target.com    # Full scan
+$ python3 cyberburg.py -t target.com --quick    # Quick scan
+$ python3 cyberburg.py -t target.com --stealth  # Stealth mode
+```
+
+<div align="center">
+
+| Module | Tools Used | Coverage |
+|--------|-----------|----------|
+| `recon` | whois, dig, subfinder, amass, theHarvester | OSINT + DNS |
+| `ports` | nmap (6 modes) | TCP/UDP + OS fingerprint |
+| `web` | nikto, whatweb, wafw00f, curl | OWASP headers, WAF, CMS |
+| `sqli` | sqlmap (BEUSTQ) + manual | All SQLi techniques |
+| `xss` | dalfox + DOM analysis | Reflected / DOM XSS |
+| `dirs` | gobuster, ffuf, dirb | Files, APIs, admin panels |
+| `ssl` | sslscan, openssl | TLS 1.0/1.1, ciphers, CVEs |
+| `nuclei` | nuclei templates | 7000+ CVE & misconfig checks |
 
 </div>
 
@@ -200,7 +273,8 @@ $ python main.py scan --url https://target.com --modules all --auth --report pdf
 ║  Methodology    : OWASP Top 10 (2021) + Custom Playbooks     ║
 ║  Report Format  : HackerOne / Bugcrowd Standard              ║
 ║  Scoring System : CVSS v3.1 (Base + Temporal + Environmental)║
-║  Tools Built    : BugScanner — Automated PHP Pentest Suite   ║
+║  Tools Built    : BugScanner  — Automated PHP Pentest Suite  ║
+║                   Cyberburg   — Advanced Web Pentest Suite   ║
 ║  Course         : EC-Council Bug Bounty Professional         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -250,10 +324,10 @@ $ python main.py scan --url https://target.com --modules all --auth --report pdf
 
 <div align="center">
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [🔥 **BugScanner**](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing) | PHP Web Security Scanner — OWASP Top 10 automated with PDF reports | Python, Click, Rich | ⭐ Featured |
-| [🐍 More coming...](https://github.com/faizzyhon) | Stay tuned for more security tools | Python, PHP, Bash | 🔄 Active |
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| [🔥 **BugScanner**](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing) | PHP Web Security Scanner — OWASP Top 10 automated with CVSS scoring & PDF reports | Python, Click, Rich | ⭐ Featured |
+| [⚡ **Cyberburg**](https://github.com/faizzyhon/cyberburg) | Advanced Linux Web Pentest Suite — 30+ tools, 8 scan modules, HTML/JSON reports | Python, Rich, Nmap, Nuclei | 🔴 v2.0 LIVE |
 
 </div>
 
