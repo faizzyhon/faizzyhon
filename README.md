@@ -20,7 +20,8 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ## Now
 
-- Open PR to **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** (389k★) — closes [`#12348`](https://github.com/EbookFoundation/free-programming-books/issues/12348), adds an optional `last updated` notation for dormant podcast/screencast entries
+- Recently landed **2 merged bug fixes** in **[keon/algorithms](https://github.com/keon/algorithms)** (25.4k★) — Python algorithm corrections to `roman_to_int` and `_remove_punctuation` ([commits](https://github.com/keon/algorithms/commits?author=faizzyhon))
+- Open PR to **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** (389k★) — closes [`#12348`](https://github.com/EbookFoundation/free-programming-books/issues/12348), adds the `last updated` notation for dormant podcast/screencast entries
 - Maintaining **[BUGSCANNER](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing)** and **[Cyberburg](https://github.com/faizzyhon/Cyberburg)** — OWASP-aligned web vulnerability scanners used by bug-bounty researchers
 - Shipping **[CyberGuard](https://github.com/faizzyhon/CyberGuard-Threat-Awareness-Training)** — a Next.js cybersecurity awareness training platform with progress tracking and admin reporting
 
@@ -84,8 +85,9 @@ Building production tools at the intersection of offensive security, applied AI,
 
 | Repo | Stars | Status | Contribution |
 |---|---|---|---|
+| [keon/algorithms](https://github.com/keon/algorithms) | 25.4k★ | **Merged** | Two Python bug fixes: `roman_to_int` raised `IndexError` on empty string ([`f39a07e`](https://github.com/keon/algorithms/commit/f39a07ee95664ec3c1c15b947f5cd2d5134188ef)); `_remove_punctuation` was stripping digits and producing false palindrome positives ([`b8f9dca`](https://github.com/keon/algorithms/commit/b8f9dca0a6515f77dc9a4daf346ed952ea8cb07f)) |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 389k★ | PR open | Adds `last updated` notation for podcast/screencast entries — closes [#12348](https://github.com/EbookFoundation/free-programming-books/issues/12348) |
-| [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) | — | PR open | Contributions to the decentralized F2F communication platform |
+| [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) | 1.9k★ | PR open | Contributions to the decentralized F2F communication platform |
 | [RetroShare/libretroshare](https://github.com/RetroShare/libretroshare) | — | PR open | Library-side contributions |
 
 A public log of every contribution lives at **[faizzyhon/open-source-journey](https://github.com/faizzyhon/open-source-journey)** — also includes a tested "first OSS PR" playbook for newcomers.
