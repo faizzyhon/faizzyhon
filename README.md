@@ -6,7 +6,7 @@
 
 Building production tools at the intersection of offensive security, applied AI, and full-stack web. Open to consulting and full-time work.
 
-[`faizzyhon.com`](https://www.faizzyhon.com) · [`linkedin`](https://www.linkedin.com/in/faizzyhon) · `KSA · open to hire`
+[`portfolio`](https://faizzyhon.github.io) · [`faizzyhon.com`](https://www.faizzyhon.com) · [`linkedin`](https://www.linkedin.com/in/faizzyhon) · `KSA · open to hire`
 
 ![Profile views](https://komarev.com/ghpvc/?username=faizzyhon&style=flat-square&color=blue)
 ![Followers](https://img.shields.io/github/followers/faizzyhon?style=flat-square&label=followers&color=blue)
