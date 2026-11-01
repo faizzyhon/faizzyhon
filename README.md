@@ -2,7 +2,7 @@
 
 # Muhammad Faizan · `@faizzyhon`
 
-**AI engineer & React developer · Certified Ethical Hacker · KSA**
+**AI engineer & full-stack developer · B.S. Artificial Intelligence · Certified Ethical Hacker · KSA**
 
 Building production tools at the intersection of offensive security, applied AI, and full-stack web. Open to consulting and full-time work.
 
@@ -21,7 +21,7 @@ Building production tools at the intersection of offensive security, applied AI,
 ## Now
 
 - Recently landed **2 merged bug fixes** in **[keon/algorithms](https://github.com/keon/algorithms)** (25.4k★) — Python algorithm corrections to `roman_to_int` and `_remove_punctuation` ([commits](https://github.com/keon/algorithms/commits?author=faizzyhon))
-- Open PR to **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** (389k★) — closes [`#12348`](https://github.com/EbookFoundation/free-programming-books/issues/12348), adds the `last updated` notation for dormant podcast/screencast entries
+- Submitted a PR to **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** (389k★) (closed without merge) — targeted [`#12348`](https://github.com/EbookFoundation/free-programming-books/issues/12348), adds the `last updated` notation for dormant podcast/screencast entries
 - Maintaining **[BUGSCANNER](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing)** and **[Cyberburg](https://github.com/faizzyhon/Cyberburg)** — OWASP-aligned web vulnerability scanners used by bug-bounty researchers
 - Shipping **[CyberGuard](https://github.com/faizzyhon/CyberGuard-Threat-Awareness-Training)** — a Next.js cybersecurity awareness training platform with progress tracking and admin reporting
 
