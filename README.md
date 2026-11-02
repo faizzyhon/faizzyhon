@@ -31,6 +31,8 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ### Offensive security
 
+> Security tools here are for education and **authorized testing only** — use them solely on systems you own or have written permission to test.
+
 | Project | What it is | Stars / Forks |
 |---|---|---|
 | **[BUGSCANNER](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing)** | Modular Python web-vuln scanner built around OWASP Top 10 (2021), with deep PHP-specific exploitation paths. Built for bug-bounty hunters, pen testers, and security researchers. | 4★ · 3 forks |
