@@ -47,6 +47,7 @@ Building production tools at the intersection of offensive security, applied AI,
 | **[BTCPRO](https://github.com/faizzyhon/BTCPRO)** | High-performance trading intelligence dashboard powered by local Ollama models — fully on-device LLM inference, no cloud cost. | 2★ · 1 fork |
 | **[Token-Buster](https://github.com/faizzyhon/Token-Buster)** | Reduces AI coding-assistant token usage 5–10×. Supports Claude, GPT, and Grok. | 1★ |
 | **[AI-ChatBot-Termux](https://github.com/faizzyhon/AI-ChatBot-Termux)** | Python OpenAI chatbot tuned for Termux on Android — full conversational interface from a phone shell. | 7★ · 3 forks |
+| **[KORA](https://github.com/faizzyhon/kora)** | Open-source execution-control layer for AI workloads — turns requests into task graphs with deterministic-first execution, validation, and model escalation only when needed. | — |
 
 ### Web & SaaS
 
