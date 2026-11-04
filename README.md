@@ -64,7 +64,8 @@ Building production tools at the intersection of offensive security, applied AI,
 
 **Languages**  &nbsp; TypeScript · Python · JavaScript · C++ · Shell · PHP
 **Web**  &nbsp; Next.js · React · Tailwind · Framer Motion
-**AI / ML**  &nbsp; Ollama · OpenAI API · Anthropic Claude API · LangChain · YOLOv7
+**AI / ML**  &nbsp; PyTorch · TensorFlow · scikit-learn · LangChain · Ollama · OpenAI API · Anthropic Claude API · YOLOv7
+**Model serving**  &nbsp; FastAPI · Flask · Docker · PostgreSQL
 **Security**  &nbsp; Burp Suite · OWASP ZAP · Metasploit · Nmap · Wireshark · Kali Linux · Android Smali tooling
 **Infra**  &nbsp; Vercel · Stripe Connect · Supabase · GitHub Actions
 
