@@ -20,6 +20,7 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ## Now
 
+- Building **[KORA](https://github.com/faizzyhon/kora)** — an open-source execution-control layer for AI workloads (task graphs, deterministic-first execution, validation, model escalation only when needed); currently alpha
 - Recently landed **2 merged bug fixes** in **[keon/algorithms](https://github.com/keon/algorithms)** (25.4k★) — Python algorithm corrections to `roman_to_int` and `_remove_punctuation` ([commits](https://github.com/keon/algorithms/commits?author=faizzyhon))
 - Submitted a PR to **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** (389k★) (closed without merge) — targeted [`#12348`](https://github.com/EbookFoundation/free-programming-books/issues/12348), adds the `last updated` notation for dormant podcast/screencast entries
 - Maintaining **[BUGSCANNER](https://github.com/faizzyhon/BUGSCANNER---PHP-Web-Security-Scanner-for-Bug-Bounty-Penetration-Testing)** and **[Cyberburg](https://github.com/faizzyhon/Cyberburg)** — OWASP-aligned web vulnerability scanners used by bug-bounty researchers
