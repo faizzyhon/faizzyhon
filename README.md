@@ -91,7 +91,7 @@ Building production tools at the intersection of offensive security, applied AI,
 | Repo | Stars | Status | Contribution |
 |---|---|---|---|
 | [keon/algorithms](https://github.com/keon/algorithms) | 25.4k★ | **Merged** | Two Python bug fixes: `roman_to_int` raised `IndexError` on empty string ([`f39a07e`](https://github.com/keon/algorithms/commit/f39a07ee95664ec3c1c15b947f5cd2d5134188ef)); `_remove_punctuation` was stripping digits and producing false palindrome positives ([`b8f9dca`](https://github.com/keon/algorithms/commit/b8f9dca0a6515f77dc9a4daf346ed952ea8cb07f)) |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 389k★ | PR open | Adds `last updated` notation for podcast/screencast entries — closes [#12348](https://github.com/EbookFoundation/free-programming-books/issues/12348) |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 389k★ | Closed (not merged) | Proposed `last updated` notation for podcast/screencast entries — targeted [#12348](https://github.com/EbookFoundation/free-programming-books/issues/12348) |
 | [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) | 1.9k★ | PR open | Contributions to the decentralized F2F communication platform |
 | [RetroShare/libretroshare](https://github.com/RetroShare/libretroshare) | — | PR open | Library-side contributions |
 
