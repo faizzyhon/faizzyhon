@@ -4,7 +4,7 @@
 
 **AI engineer & full-stack developer · B.S. Artificial Intelligence · Certified Ethical Hacker · KSA**
 
-Building production tools at the intersection of offensive security, applied AI, and full-stack web. Open to consulting and full-time work.
+Building production tools at the intersection of offensive security, applied AI, and full-stack web. Open to consulting and full-time work in AI/ML, full-stack, and security engineering (onsite or hybrid, KSA).
 
 [`portfolio`](https://faizzyhon.github.io) · [`faizzyhon.com`](https://www.faizzyhon.com) · [`linkedin`](https://www.linkedin.com/in/faizzyhon) · `KSA · open to hire`
 
