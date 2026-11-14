@@ -98,6 +98,7 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 
 ## Credentials
 
+- **B.S. Artificial Intelligence** — The Islamia University of Bahawalpur (2024)
 - **Certified Ethical Hacker (CEH)** — EC-Council
 - Active bug-bounty researcher and security tool maintainer
 
