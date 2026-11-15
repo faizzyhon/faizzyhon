@@ -100,6 +100,8 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 
 - **B.S. Artificial Intelligence** — The Islamia University of Bahawalpur (2024)
 - **Certified Ethical Hacker (CEH)** — EC-Council
+- **Advanced Machine Learning professional training program** — Systems Limited Training & Development (2026)
+- **ML Engineer** — Systems Limited (remote, 2023–2024): text-classification/NLP pipelines served via FastAPI and Flask
 - Active bug-bounty researcher and security tool maintainer
 
 ---
