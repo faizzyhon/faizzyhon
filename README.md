@@ -30,6 +30,19 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ## Selected work
 
+## Open source contributions
+
+| Repo | Stars | Status | Contribution |
+|---|---|---|---|
+| [keon/algorithms](https://github.com/keon/algorithms) | 25.4k★ | **Merged** | Two Python bug fixes: `roman_to_int` raised `IndexError` on empty string ([`f39a07e`](https://github.com/keon/algorithms/commit/f39a07ee95664ec3c1c15b947f5cd2d5134188ef)); `_remove_punctuation` was stripping digits and producing false palindrome positives ([`b8f9dca`](https://github.com/keon/algorithms/commit/b8f9dca0a6515f77dc9a4daf346ed952ea8cb07f)) |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 389k★ | Closed (not merged) | Proposed `last updated` notation for podcast/screencast entries — targeted [#12348](https://github.com/EbookFoundation/free-programming-books/issues/12348) |
+| [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) | 1.9k★ | PR open | Contributions to the decentralized F2F communication platform |
+| [RetroShare/libretroshare](https://github.com/RetroShare/libretroshare) | — | PR open | Library-side contributions |
+
+A public log of every contribution lives at **[faizzyhon/open-source-journey](https://github.com/faizzyhon/open-source-journey)** — also includes a tested "first OSS PR" playbook for newcomers.
+
+---
+
 ### Offensive security
 
 > Security tools here are for education and **authorized testing only** — use them solely on systems you own or have written permission to test.
@@ -47,14 +60,6 @@ Building production tools at the intersection of offensive security, applied AI,
 |---|---|---|
 | **[KORA](https://github.com/faizzyhon/kora)** | Open-source execution-control layer for AI workloads — turns requests into task graphs with deterministic-first execution, validation, and model escalation only when needed. Alpha benchmark: 80% fewer model invocations on a deterministic-heavy workload. | 0★ |
 
-### Web & SaaS
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[CyberGuard – Threat Awareness Training](https://github.com/faizzyhon/CyberGuard-Threat-Awareness-Training)** | Next.js platform teaching cybersecurity fundamentals (phishing, malware, social engineering). Module-based lessons with quizzes and admin progress reports. | TypeScript · Next.js |
-| **[Taxlance](https://github.com/faizzyhon/Taxlance)** | Freelance billing and tax automation for Pakistani freelancers — handles invoicing, FBR-aware tax categorization, and client management. | TypeScript |
-| **[SaaSify](https://github.com/faizzyhon/SaaSify-Stripe-Powered-SaaS-Platform-for-Micro-Accounts)** | Stripe Connect SaaS platform that lets companies onboard users with micro Stripe accounts, sell products, and receive payouts. | TypeScript · Stripe |
-| **[next-securefolio](https://github.com/faizzyhon/next-securefolio)** | Next.js portfolio template for developers and CEH professionals — Kali-styled UI. | TypeScript |
 
 ---
 
@@ -83,18 +88,7 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ---
 
-## Open source contributions
 
-| Repo | Stars | Status | Contribution |
-|---|---|---|---|
-| [keon/algorithms](https://github.com/keon/algorithms) | 25.4k★ | **Merged** | Two Python bug fixes: `roman_to_int` raised `IndexError` on empty string ([`f39a07e`](https://github.com/keon/algorithms/commit/f39a07ee95664ec3c1c15b947f5cd2d5134188ef)); `_remove_punctuation` was stripping digits and producing false palindrome positives ([`b8f9dca`](https://github.com/keon/algorithms/commit/b8f9dca0a6515f77dc9a4daf346ed952ea8cb07f)) |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 389k★ | Closed (not merged) | Proposed `last updated` notation for podcast/screencast entries — targeted [#12348](https://github.com/EbookFoundation/free-programming-books/issues/12348) |
-| [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) | 1.9k★ | PR open | Contributions to the decentralized F2F communication platform |
-| [RetroShare/libretroshare](https://github.com/RetroShare/libretroshare) | — | PR open | Library-side contributions |
-
-A public log of every contribution lives at **[faizzyhon/open-source-journey](https://github.com/faizzyhon/open-source-journey)** — also includes a tested "first OSS PR" playbook for newcomers.
-
----
 
 ## Credentials
 
