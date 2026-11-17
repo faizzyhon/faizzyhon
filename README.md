@@ -30,7 +30,7 @@ Building production tools at the intersection of offensive security, applied AI,
 
 ## Selected work
 
-## Open source contributions
+### Open source contributions
 
 | Repo | Stars | Status | Contribution |
 |---|---|---|---|
@@ -115,7 +115,7 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 
 ## Reach me
 
-- Website &nbsp;·&nbsp; [www.faizzyhon.com](https://www.faizzyhon.com)
+- Website &nbsp;·&nbsp; [www.faizzyhon.com](https://www.faizzyhon.com) 
 - Email &nbsp;·&nbsp; faizzyhon@gmail.com
 - GitHub &nbsp;·&nbsp; [@faizzyhon](https://github.com/faizzyhon)
 - Based in KSA &nbsp;·&nbsp; open to consulting & full-time roles
