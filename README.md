@@ -60,7 +60,6 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 |---|---|---|
 | **[KORA](https://github.com/faizzyhon/kora)** | Open-source execution-control layer for AI workloads — turns requests into task graphs with deterministic-first execution, validation, and model escalation only when needed. Alpha benchmark: 80% fewer model invocations on a deterministic-heavy workload. | 0★ |
 
-
 ---
 
 ## Stack
@@ -88,8 +87,6 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 
 ---
 
-
-
 ## Credentials
 
 - **B.S. Artificial Intelligence** — The Islamia University of Bahawalpur (2024)
@@ -115,7 +112,7 @@ A public log of every contribution lives at **[faizzyhon/open-source-journey](ht
 
 ## Reach me
 
-- Website &nbsp;·&nbsp; [www.faizzyhon.com](https://www.faizzyhon.com) 
+- Website &nbsp;·&nbsp; [www.faizzyhon.com](https://www.faizzyhon.com)
 - Email &nbsp;·&nbsp; faizzyhon@gmail.com
 - GitHub &nbsp;·&nbsp; [@faizzyhon](https://github.com/faizzyhon)
 - Based in KSA &nbsp;·&nbsp; open to consulting & full-time roles
